@@ -1,7 +1,7 @@
 class HSV(object):
     
     def __init__(self, boja):
-        self.boja = 3
+        self.boja = 77
 
     
     @property # getter
